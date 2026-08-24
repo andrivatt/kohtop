@@ -1,0 +1,21 @@
+{
+  "topics": {
+    "ВПР": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/topics/ВПР.txt",
+    "ОГЭ": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/topics/ОГЭ.txt",
+    "Диктант победы": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/topics/ПОБЕДА.txt",
+    "Работы на сегодня": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/topics/СЕГОДНЯ.txt",
+    "МЦКО": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/topics/МЦКО.txt",
+    "ВЕРТИКАЛЬ": "https://raw.githubusercontent.com/andrivatt/kohtop/refs/heads/main/topics/ВЕРТИКАЛЬ.txt"
+  },
+  "text": {
+    "ВПР": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/text/ВПР.txt",
+    "ОГЭ": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/text/ОГЭ.txt",
+    "Диктант победы": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/text/ПОБЕДА.txt",
+    "Работы на сегодня": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/text/СЕГОДНЯ.txt",
+    "МЦКО": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/text/МЦКО.txt",
+    "Вертикаль": "https://raw.githubusercontent.com/andrivatt/kohtop/refs/heads/main/text/ВЕРТИКАЛЬ.txt"
+  },
+  "public": {
+    "Public 1": "https://vk.com/club192733652"
+  }
+}
