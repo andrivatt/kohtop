@@ -1,0 +1,10 @@
+{
+  "topics": {
+    "ВПР": "https://example.com/topics/ВПР.txt",
+    "ОГЭ": "https://example.com/topics/ОГЭ.txt"
+  },
+  "text": {
+    "ВПР": "https://example.com/text/ВПР.txt",
+    "ОГЭ": "https://example.com/text/ОГЭ.txt"
+  }
+}
